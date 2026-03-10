@@ -9,9 +9,9 @@ const newMalti = number.map((element) => {
 // 👉other again
 const friendName = ["roy", "rocky", "function", "alom"];
 const newList = friendName.map((value, index) => {
-  return (value, index);
+  // console.log(value);
+  // console.log(index);
 });
-console.log(nameList);
 
 // 👉const newNumber = number.map((index) => index + 1);
 // 👉const newNumber = number.map((index) => {
